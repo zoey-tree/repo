@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int num;
-
+    cout << "做出更改" << endl;
     cout << "请输入一个整数: ";
     cin >> num;
 
